@@ -8,6 +8,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
   ### Replace <username> with GitHub username ###
+  ### Done this ###
   ###############################################
   DOCKER_IMAGE_NAME: Lanzar-dev-azure-ttt
   AZURE_WEBAPP_NAME: Lanzar-dev-ttt-app
